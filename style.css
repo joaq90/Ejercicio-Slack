@@ -1,0 +1,327 @@
+.background {
+  background-color: rgb(88, 12, 88);
+  width: 400px;
+  height: 400px;
+}
+
+.menu {
+  display: flex;
+  justify-content: space-between;
+}
+
+.imagen {
+  width: 400px;
+  height: 400px;
+}
+
+.menu-div {
+  font-family: Helvetica, sans-serif;
+  color: white;
+}
+
+.menu-div__logo {
+  display: flex;
+  width: 40px;
+  height: 40px;
+  margin-right: 20px;
+  margin-top: 20px;
+  color: white;
+}
+
+.text {
+  color: white;
+  text-align: center;
+}
+
+.segundo {
+  color: yellow;
+  font-family: Helvetica, sans-serif;
+}
+
+.text-p {
+  font-family: Helvetica, sans-serif;
+}
+
+.button-correo {
+  font-family: Helvetica, sans-serif;
+  width: 400px;
+  border: 50px;
+  background-color: white;
+  padding: 16px;
+  color: blue;
+}
+
+.button-correo:hover {
+  font-weight: bold;
+}
+
+.button-google {
+  font-family: Helvetica, sans-serif;
+  width: 400px;
+  border: 50px;
+  background-color: blue;
+  padding: 16px;
+  color: white;
+}
+
+.button:hover {
+  font-weight: bold;
+}
+
+.main {
+  background-color: #f4ede3;
+  width: 400px;
+  height: 400px;
+}
+
+.main-h1 {
+  font-size: 15px;
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+}
+
+.text-h1 {
+  font-size: 30px;
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+}
+
+.image {
+  width: 100px;
+  height: 100px;
+  flex-wrap: wrap;
+  font-family: Helvetica, sans-serif;
+  margin-inline: 5px;
+  margin-top: 10px;
+}
+
+.bloque {
+  background-color: #f4ede3;
+  width: 400px;
+  height: 400px;
+  font-weight: 200;
+}
+
+.bloque-a {
+  color: rgb(85, 85, 201);
+  text-decoration: none;
+}
+
+.particular {
+  background-color: white;
+  width: 400px;
+  height: 400px;
+  text-align: center;
+}
+
+.particular-p {
+  font-size: 20px;
+}
+
+.pulsar-boton1 {
+  font-family: Helvetica, sans-serif;
+  width: 400px;
+  border: 50px;
+  background-color: rgb(88, 12, 88);
+  padding: 16px;
+  color: white;
+  margin-bottom: 10px;
+}
+
+.pulsar-boton2 {
+  font-family: Helvetica, sans-serif;
+  width: 400px;
+  border: 50px;
+  background-color: transparent;
+  padding: 16px;
+  color: rgb(88, 12, 88);
+  border-color: rgb(88, 12, 88);
+  border-width: 2px;
+  border-style: solid;
+}
+
+.porcentaje-h1 {
+  font-family: Helvetica, sans-serif;
+  color: rgb(88, 12, 88);
+  font-size: 50px;
+}
+
+.porcentaje-p {
+  font-size: 18px;
+  text-align: center;
+}
+
+.video {
+  border-top-left-radius: 50%;
+  width: 400px;
+  height: 400px;
+}
+
+.autor {
+  font-size: 10px;
+  font-family: Helvetica, sans-serif;
+  text-align: left;
+  font-style: italic;
+}
+
+.autor-h1 {
+  font-weight: lighter;
+}
+
+.escritor {
+  text-align: left;
+}
+
+.escritor-p {
+  font-weight: bolder;
+}
+
+.escritor-p-p {
+  font-weight: 300;
+}
+
+.escritor-a {
+  color: rgb(85, 85, 201);
+  text-decoration: none;
+}
+.escritor-a .obsevacion {
+  font-size: 5px;
+  text-align: center;
+}
+
+.section {
+  margin-top: 50px;
+  text-align: center;
+  background-color: #f4ede4;
+  width: 400px;
+  height: 550px;
+}
+
+.section-h1 {
+  margin-top: 50px;
+  font-family: Helvetica, sans-serif;
+  font-size: 20px;
+}
+
+.rectangulo {
+  background-color: white;
+  border: 3px;
+  width: 250px;
+  height: 400px;
+  margin-left: 17%;
+}
+
+.rectangulo-img {
+  margin-top: 20px;
+  width: 200px;
+  height: 170px;
+}
+
+.rectangulo-p {
+  margin-left: -130px;
+  font-family: Helvetica, sans-serif;
+  font-size: 13px;
+  font-weight: bolder;
+  color: rgb(177, 162, 162);
+}
+
+.rectangulo-h1 {
+  font-family: Helvetica, sans-serif;
+  font-size: 20px;
+  text-align: left;
+  margin-left: 25px;
+}
+
+.rectangulo-a {
+  color: rgb(85, 85, 201);
+  text-decoration: none;
+  font-weight: bold;
+  margin-left: 20px;
+  font-size: 15px;
+  margin-top: -50px;
+}
+
+.bienvenida {
+  margin-top: 50px;
+  text-align: center;
+  background-color: rgb(88, 12, 88);
+  width: 400px;
+  height: 300px;
+  border: radius 50%;
+}
+
+.bienvenida-h1 {
+  color: white;
+  font-family: Helvetica, sans-serif;
+  font-size: 30px;
+}
+
+.bienvenida-boton1 {
+  font-family: Helvetica, sans-serif;
+  width: 400px;
+  border: 50px;
+  background-color: white;
+  padding: 16px;
+  color: rgb(88, 12, 88);
+}
+
+.bienvenida-boton2 {
+  font-family: Helvetica, sans-serif;
+  width: 400px;
+  border: 50px;
+  background-color: transparent;
+  padding: 16px;
+  color: white;
+  border-color: white;
+  border-width: 2px;
+  border-style: solid;
+}
+
+.logito {
+  text-align: left;
+  font-family: Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+.logito-ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.logito-a {
+  text-decoration: none;
+  color: black;
+}
+
+.estado {
+  text-align: left;
+  font-family: Helvetica, sans-serif;
+  margin-top: 50px;
+}
+
+.estado-ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.estado-li {
+  text-decoration: none;
+  color: black;
+  font-size: 15px;
+}
+
+.final {
+  text-align: left;
+  font-family: Helvetica, sans-serif;
+  font-size: 10px;
+}
+
+.mano {
+  font-size: 20px;
+  font-weight: 400;
+  position: fixed;
+  top: 450px;
+  margin-left: 310px;
+}/*# sourceMappingURL=style.css.map */
